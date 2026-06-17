@@ -3,6 +3,7 @@
   "versions": {
     "3.8.7": true,
     "3.8.2": true,
-    "3.8.0": true
+    "3.8.0": true,
+    "3.9.5": true
   }
 }
