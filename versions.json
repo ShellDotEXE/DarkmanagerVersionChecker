@@ -2,8 +2,8 @@
   "expires_at": "2099-12-31T23:59:59Z",
   "versions": {
     "3.9.0": true,
-    "3.8.7": false,
-    "3.8.2": false,
-    "3.8.0": false
+    "3.8.7": true,
+    "3.8.2": true,
+    "3.8.0": true
   }
 }
