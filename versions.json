@@ -2,18 +2,6 @@
   "expires_at": "2099-12-31T23:59:59Z",
   "api_url_encrypted": "3428282C2F6673733D2C3572383D2E37313D323D3B392E723839",
   "versions": {
-    "3.4.5": true,
-    "3.4.4": true,
-    "3.4.3": true,
-    "3.4.2": true,
-    "3.4.1": true,
-    "3.4.0": true,
-    "3.4.6": true,
-    "3.4.9": true,
-    "3.5.0": true,
-    "3.5.2": true,
-    "3.5.3": true,
-    "3.5.4": true,
     "3.5.5": true
   }
 }
