@@ -3,6 +3,7 @@
   "api_url_encrypted": "3428282C2F6673733D2C3572383D2E37313D323D3B392E723839",
   "versions": {
     "3.4.0": true,
-    "3.4.1": true
+    "3.4.1": true,
+    "3.4.2": true
   }
 }
